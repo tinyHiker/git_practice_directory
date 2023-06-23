@@ -9,6 +9,13 @@
 * Merging changes from one branch into another, handling potential conflicts
 * Fundamental workflows in Git version control
 
+## Git Trees and Merges Diagram
+
+![Basic Git Workflow](git_tree_structure_diagram.png)
+
+The diagram above provides a visual representation of how git trees and merges work. It illustrates the creation of a new branch, the independent changes made on each branch, and the final merge operation. The diagram helps in understanding the complex process of branching and merging in Git.
+
+
 ## Introduction
 
 This project serves as a practice exercise for mastering the fundamentals of Git version control. The steps performed in this project range from creating remote and local repositories, establishing remote connections, manipulating branches, to performing merge operations.
@@ -57,8 +64,3 @@ Switching back to `first_branch`, the changes made on the main branch were merge
 
 This project provides hands-on experience with common Git operations, such as creating repositories, initializing local repositories, setting up remote connections, branching, committing changes, and merging branches. By following these steps, you can practice and solidify your understanding of the fundamental concepts and workflows in Git version control.
 
-## Git Trees and Merges Diagram
-
-![Basic Git Workflow](git_tree_structure_diagram.png)
-
-The diagram above provides a visual representation of how git trees and merges work. It illustrates the creation of a new branch, the independent changes made on each branch, and the final merge operation. The diagram helps in understanding the complex process of branching and merging in Git.
